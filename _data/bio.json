@@ -19,31 +19,9 @@
         "network": "github",
         "username": "rnkazman",
         "url": "http://github.com/rnkazman"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "https://www.linkedin.com/in/rick-kazman-3715921"
       }
     ]
   },
-  "interests": [
-    {
-      "name": "Software architecture",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Software design and analysis",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Software economics",
-      "keywords": [
-      ]
-    }
-  ],
   "skills": [
   ],
   "education": [
