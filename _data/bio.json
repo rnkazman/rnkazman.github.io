@@ -57,14 +57,8 @@
   ],
   "interests": [
     {
-      "organization": "IEEE Computer Society",
-      "website": "",
-      "position": "Chair Technical Council on Software Engineering",
-      "startDate": "2016-02-01",
-      "endDate": "present",
-      "summary": "",
-      "highlights": [
-      ]
+     "name": "Software Architecture",
+		 "keywords": ["architecture design", "architecture analysis", "architecture debt"]
     }
   ],
   "awards": [
