@@ -58,12 +58,14 @@
   "interests": [
     {
      "name": "Software Architecture",
-		 "keywords": ["architecture design", "architecture analysis", "architecture debt"], 
-	    "name": "Design Analysis",
-		 "keywords": ["analysis tools", "analysis methods"],
-	    "name": "Software Engineering Economics",
+		 "keywords": ["architecture design", "architecture analysis", "architecture debt"]
+    },
+	{ "name": "Design Analysis",
+		 "keywords": ["analysis tools", "analysis methods"]
+	},
+	{  "name": "Software Engineering Economics",
 		 "keywords": ["technical debt", "refactoring"]
-    }
+	}
   ],
   "awards": [
   ],
