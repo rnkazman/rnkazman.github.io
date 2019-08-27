@@ -41,18 +41,14 @@
       "website": "http://shidler.hawaii.edu/itm/directory/rick-kazman",
       "startDate": "2001-08-01",
       "endDate": "Present",
-      "summary": "Software engineering researcher",
-      "highlights": [
-        ""
-      ]
+      "summary": "Software engineering researcher"
     },
     {
       "company": "Software Engineering Institute, Carnegie Mellon University",
       "position": "Visiting Researcher",
       "startDate": "1996-09-01",
       "endDate": "Present",
-      "summary": "",
-      "highlights": [""]
+      "summary": ""
     }
   ],
   "interests": [
@@ -66,11 +62,5 @@
 	{  "name": "Software Engineering Economics",
 		 "keywords": ["technical debt", "refactoring"]
 	}
-  ],
-  "references": [
-    {
-      "name": "",
-      "reference": ""
-    }
   ]
 }
