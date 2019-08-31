@@ -1,16 +1,11 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/TechDebt.jpg
+title: Technical Debt in Practice
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
-labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
 summary: A forthcoming book on Technical Debt.
 ---
 
