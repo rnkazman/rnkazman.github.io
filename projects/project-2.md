@@ -4,7 +4,7 @@ type: project
 image: images/TechDebt.jpg
 title: Technical Debt in Practice
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-08-30
 summary: A forthcoming book on Technical Debt.
 ---
 
