@@ -15,6 +15,6 @@ summary: A forthcoming book on Technical Debt.
 ---
 
 #Technical Debt in Practice
-<img class="ui medium right floated rounded image" src="../images/TechDebt.jpg">
+<img class="ui medium floated rounded image" src="../images/TechDebt.jpg">
 
-yadda yadda
+I am in the final throes of writing a book on Technical Debt.  The proposed title of the book is "Technical Debt in Practice" and it is being co-authored by Julien Delange (Twitter) and Neil Ernst (University of Victoria).  We expect to publish this delightful book of wit and wisdom in early 2020.
