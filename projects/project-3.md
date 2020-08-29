@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/SAP3.jpg
-title: Technical Debt in Practice
+title: Software Architecture in Practice, 4th ed.
 # All dates must be YYYY-MM-DD format!
 date: 2021-04-30
 summary: The fourth edition of Software Architecture in Practice is coming soon. 
